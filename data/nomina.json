@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "juan",
+        "apellido": "barrios",
+        "salario": "220"
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "rios",
+        "salario": "420"
+    },
+    {
+        "nombre": "Juan Pedro",
+        "apellido": "Lopez",
+        "salario": "222255"
+    },
+    {
+        "nombre": "pedro",
+        "apellido": "lopez",
+        "salario": "34555"
+    }
+]

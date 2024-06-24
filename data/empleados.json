@@ -1,0 +1,50 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Lopez",
+        "direccion": "Las Heras",
+        "legajo": "20241",
+        "salario": "500",
+        "hijos": "" ,
+        "fechaNacimiento": "25/05/1989",
+        "fechaIngreso": "01/01/2024",
+        "fechaEgreso": "",
+        "estadoCivil": "Soltero"
+    },
+    {
+        "nombre": "Sergio",
+        "apellido": "Serbluk",
+        "direccion": "las heras",
+        "legajo": "20242",
+        "salario": "500",
+        "hijos": "",
+        "fechaNacimiento": "15/05/1998",
+        "fechaIngreso": "01/01/2024",
+        "fechaEgreso": "",
+        "estadoCivil": "soltero"
+    },
+    {
+        "nombre": "Pepe",
+        "apellido": "Argento",
+        "direccion": "las heras",
+        "legajo": "20243",
+        "salario": "600",
+        "hijos": "",
+        "fechaNacimiento": "12/07/1998",
+        "fechaIngreso": "01/01/2024",
+        "fechaEgreso": "",
+        "estadoCivil": "casado"
+    },
+    {
+        "nombre": "Marianela",
+        "apellido": "ortiz",
+        "direccion": "moro 347",
+        "legajo": "20244",
+        "salario": "800",
+        "hijos": "",
+        "fechaNacimiento": "12/03/1985",
+        "fechaIngreso": "01/01/2024",
+        "fechaEgreso": "",
+        "estadoCivil": "soltera"
+    }
+]
